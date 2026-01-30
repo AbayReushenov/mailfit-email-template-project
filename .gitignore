@@ -1,0 +1,15 @@
+# Зависимости
+node_modules/
+.pnp
+.pnp.js
+
+# Сборка и временные файлы
+docs/
+dist/
+build/
+*.log
+.DS_Store
+
+# Переменные окружения (если есть ключи API)
+.env
+.env.local
